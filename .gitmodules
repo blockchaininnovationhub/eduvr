@@ -1,0 +1,9 @@
+[submodule "eduvr-backend"]
+	path = eduvr-backend
+	url = https://github.com/blockchaininnovationhub/eduvr-backend
+[submodule "eduvr-contracts"]
+	path = eduvr-contracts
+	url = https://github.com/blockchaininnovationhub/eduvr-contracts
+[submodule "eduvr-frontend"]
+	path = eduvr-frontend
+	url = https://github.com/blockchaininnovationhub/eduvr-frontend
